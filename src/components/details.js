@@ -57,7 +57,7 @@ export default class Details extends Component {
 
                                         }}
                                         >
-                                            {inCart?"in cart":"add to cart"}
+                                            {inCart?"déja pris":"ajouter dans le panier"}
                                         </ButtonContainer>
                                     </div>
                             </div>
