@@ -12,7 +12,7 @@
                         <Link to=''>
                         <button className="btn btn-outline-danger text-uppercase mb-3 px-5 " type="button"
                         onClick={()=>clearCart()}>
-                            clear cart
+                           tout supprimer
 
                         </button>
                         </Link>
